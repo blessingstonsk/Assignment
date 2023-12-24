@@ -41,7 +41,7 @@ This repository contains a simple script for lip-syncing using the Wave2Lip mode
 ## Directory Structure
 
 ```plaintext
-your-repo/
+repo/
 |-- lipsync.py
 |-- README.md
 |-- Input.mp4
