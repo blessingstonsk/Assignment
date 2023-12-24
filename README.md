@@ -42,7 +42,7 @@ This repository contains a simple script for lip-syncing using the Wave2Lip mode
 
 ```plaintext
 your-repo/
-|-- lip_sync_script.py
+|-- lipsync.py
 |-- README.md
 |-- Input.mp4
 |-- audio.mp3
